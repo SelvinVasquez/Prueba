@@ -1,0 +1,3 @@
+C:/Users/selvi/Desktop/Universidad/3er. Semestre/Programacion/cmake-build-debug/CMakeFiles/Programacion.dir
+C:/Users/selvi/Desktop/Universidad/3er. Semestre/Programacion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/selvi/Desktop/Universidad/3er. Semestre/Programacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
